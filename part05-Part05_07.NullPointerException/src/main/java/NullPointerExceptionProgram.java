@@ -21,5 +21,10 @@ public class NullPointerExceptionProgram {
             index++;
         }
 
+        String ball = null;
+        ball.equals("v");
+
+        
+
     }
 }
