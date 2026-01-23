@@ -36,7 +36,7 @@ public class Item {
         }
 
         if(!(compared instanceof Item)) {
-            return false; pocilunok 0X
+            return false;
         }
 
         Item comparedItem = (Item) compared;
